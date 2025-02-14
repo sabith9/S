@@ -1,1 +1,1 @@
-http://16.171.76.198:448/notepad.exe
+https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
